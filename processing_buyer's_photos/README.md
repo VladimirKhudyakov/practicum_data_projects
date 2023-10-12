@@ -12,4 +12,4 @@
 
 
 ## Используемые библиотеки
-*pandas*, *numpy*, *matplotlib*, *Keras*
+*Pandas*, *Numpy*, *Matplotlib*, *Keras*

@@ -12,4 +12,5 @@
 | [Классификация клиентов телеком компании](classification_telecom_company_clients) | Построение системы, способной проанализировать поведение клиентов и предложить пользователям один из новых тарифов.| *`Pandas`*, *`Matplotlib`*, *`Scikit-learn`* |
 | [Прогнозирование оттока клиентов Банка](forecasting_outflow_bank_customers) | Определение клиентов, которые собираются уйти в из банка в ближайшее время или нет. | *`Pandas`*, *`Matplotlib`*, *`Scikit-learn`* |
 | [Определение наиболее выгодного региона нефтедобычи](determining_most_profitable_oil_production_region) | Построение модели для определения региона, где добыча принесёт наибольшую прибыль.  | *`Pandas`*, *`Scikit-learn`*, *`SciPy`* |
+| [Защита данных клиентов страховой компании](data_protection_insurance_company_clients) | Разработка модели анонимизации персональных данных. | *`Pandas`*, *`Scikit-learn`*, *`NumPy`* |
 | [Обработка фотографий покупателя](processing_buyer's_photos) | Обработка фотографий покупателя и определение их возраста | *`Pandas`*, *`NumPy`*, *`Matplotlib`*, *`Keras`*  |

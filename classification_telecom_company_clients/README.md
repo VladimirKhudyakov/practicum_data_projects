@@ -13,5 +13,5 @@
 
 
 ## Используемые библиотеки
-*Pandas*, *Matplotlib*, Scikit-learn
+*Pandas*, *Matplotlib*, *Scikit-learn*
 

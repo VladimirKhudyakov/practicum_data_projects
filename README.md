@@ -13,5 +13,6 @@
 | [Прогнозирование оттока клиентов Банка](forecasting_outflow_bank_customers) | Определение клиентов, которые собираются уйти в из банка в ближайшее время или нет. | *`Pandas`*, *`Matplotlib`*, *`Scikit-learn`* |
 | [Определение наиболее выгодного региона нефтедобычи](determining_most_profitable_oil_production_region) | Построение модели для определения региона, где добыча принесёт наибольшую прибыль.  | *`Pandas`*, *`Scikit-learn`*, *`SciPy`* |
 | [Защита данных клиентов страховой компании](data_protection_insurance_company_clients) | Разработка модели анонимизации персональных данных. | *`Pandas`*, *`Scikit-learn`*, *`NumPy`* |
-| [Построение модели определения стоимости автомобиля](building_model_determining_cost_car) | Разработка системы рекомендации стоимости автомобиля на основе его описания .| *`Pandas`*, *`Matplotlib`*, *`Scikit-learn`*, *`NumPy`*, *`lightgbm`* |
+| [Построение модели определения стоимости автомобиля](building_model_determining_cost_car) | Разработка системы рекомендации стоимости автомобиля на основе его описания. | *`Pandas`*, *`Matplotlib`*, *`Scikit-learn`*, *`NumPy`*, *`lightgbm`* |
+| [Прогнозирование количества заказов такси на следующий час](forecasting_number_taxi_orders_next_hour) | Разработка системы предсказания объема заказа. | *`Pandas`*, *`NumPy`*, *`Matplotlib`*, *`Scikit-learn`*, *`NumPy`*, *`lightgbm`*, *`statsmodels`* |
 | [Обработка фотографий покупателя](processing_buyer's_photos) | Обработка фотографий покупателя и определение их возраста | *`Pandas`*, *`NumPy`*, *`Matplotlib`*, *`Keras`*  |
